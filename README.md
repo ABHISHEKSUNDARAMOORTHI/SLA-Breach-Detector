@@ -38,13 +38,6 @@ This tool aims to move from reactive troubleshooting to proactive problem-solvin
 ## Design & User Interface
 The dashboard features a **sleek dark mode design** for improved readability and a modern aesthetic, especially useful during long monitoring sessions. The professional color palette ensures clarity and focus on critical metrics and insights.
 
-## Screenshots
-*(Replace this section with actual screenshots of your dashboard in action once you run it)*
-
-![Dashboard Overview - Dark Mode](path/to/your/screenshot_overview.png)
-![Predicted Breaches - Dark Mode](path/to/your/screenshot_details.png)
-![AI Insights - Dark Mode](path/to/your/screenshot_ai_insights.png)
-
 ## Technologies Used
 * **Python 3.8+**
 * **Streamlit:** For building interactive web applications.
